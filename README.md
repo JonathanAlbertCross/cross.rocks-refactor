@@ -29,7 +29,7 @@ I refactored my portfolio project locally, following these steps:
 2. **Navigate to the Project Directory**: I moved into the project directory.
 
    ```bash
-   cd portfolio-react
+   cd react-js-portfolio-refactor
    ```
 
 3. **Install Dependencies**: I installed project dependencies using npm.
