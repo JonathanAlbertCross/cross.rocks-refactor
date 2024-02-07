@@ -35,7 +35,7 @@ I refactored my portfolio project locally, following these steps:
 3. **Install Dependencies**: I installed project dependencies using npm.
 
    ```bash
-   npm install
+   npm install i
    ```
 
 4. **Run the Development Server**: I started the development server.
