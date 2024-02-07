@@ -18,41 +18,38 @@ This portfolio project is being refactored from a traditional HTML and CSS struc
 
 ## Setting Up Locally
 
-To run the refactored portfolio project locally, follow these steps:
+I refactored my portfolio project locally, following these steps:
 
-1. **Clone the Repository**: Clone this repository to your local machine using Git.
+1. **Clone the Repository**: I cloned this repository to my local machine using Git.
 
    ```bash
-   git clone https://github.com/your-username/portfolio-react.git
+   git clone https://github.com/your-username/react-js-portfolio-refactor.git
    ```
 
-2. **Navigate to the Project Directory**: Move into the project directory.
+2. **Navigate to the Project Directory**: I moved into the project directory.
 
    ```bash
    cd portfolio-react
    ```
 
-3. **Install Dependencies**: Install project dependencies using npm or yarn.
+3. **Install Dependencies**: I installed project dependencies using npm.
 
    ```bash
    npm install
-   # or
-   yarn install
    ```
 
-4. **Run the Development Server**: Start the development server.
+4. **Run the Development Server**: I started the development server.
 
    ```bash
    npm start
-   # or
-   yarn start
-   ```
 
-5. **View in Browser**: Open your browser and navigate to `http://localhost:3000` to view the portfolio.
+   ```
+   
+5. **View in Browser**: I was able to view my portfolio by navigating to `http://localhost:3000`.
 
 ## Feedback and Issues
 
-If you encounter any issues with the portfolio or have suggestions for improvements, please open an issue on the GitHub repository. Your feedback is greatly appreciated!
+If you encounter any issues with the portfolio or have suggestions for improvements, please send me a message. Your feedback is greatly appreciated!
 
 ## License
 
