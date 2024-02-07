@@ -32,12 +32,12 @@ I refactored my portfolio project locally, following these steps:
    cd react-js-portfolio-refactor
    ```
 
-3. **Install Dependencies**: I installed project dependencies using npm.
+3. **create a new React.js application**: I created a new React project using npx.
 
    ```bash
-   npm install i
+   npx create-react-app .
    ```
-
+   
 4. **Run the Development Server**: I started the development server.
 
    ```bash
